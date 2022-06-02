@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+.main{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background: #ad5454;
+    text-align: center;
+}
+.inner{
+    width: 45%;
+    height: 50px;
+    background: #88aa89;
+    margin: 10px 10px;
+    display: flex;
+    font-size: 25px;
+    border: black solid 2px;
+
+}
+.upper{
+    width: 91.5%;
+    height: 50px;
+    background: #88aa89;
+    margin: 10px 10px;
+    font-size: 40px;
+    border: black solid 2px;
+
+}
+.button{
+    width: 91.5%;
+    height: 50px;
+    background: #ffffff;
+    margin: 10px 10px;
+    font-size: 30px;
+}
+.postDiv{
+    width: 17%;
+    background: #88aa89;
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: black solid 2px;
+}
+.post{
+    height: 40px;
+}
+.innerButton{
+    background: #ffffff;
+}
